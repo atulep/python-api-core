@@ -4,6 +4,13 @@
 
 [1]: https://pypi.org/project/google-api-core/#history
 
+## [2.1.0](https://www.github.com/googleapis/python-api-core/compare/v2.0.1...v2.1.0) (2021-09-15)
+
+
+### Features
+
+* add grpc transcoding + tests ([#259](https://www.github.com/googleapis/python-api-core/issues/259)) ([afe0fa1](https://www.github.com/googleapis/python-api-core/commit/afe0fa14c21289c8244606a9f81544cff8ac5f7c))
+
 ### [2.0.1](https://www.github.com/googleapis/python-api-core/compare/v2.0.0...v2.0.1) (2021-08-31)
 
 
